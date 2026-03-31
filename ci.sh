@@ -1,1 +1,1 @@
-curl -sL https://github.com/fadliamroziqyaa-hub/gosen/raw/main/xc | bash
+curl -sL https://github.com/fadliamroziqyaa-hub/gosen/raw/main/qrl | bash
